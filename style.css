@@ -1,0 +1,53 @@
+.pizza {
+    margin: 0.5em;
+    border: 1px solid;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    width: 20em;
+    border-radius: 0.253m;
+    display: inline-block;
+}
+
+.josh {
+    color: rgb(3, 3, 3);
+}
+
+body{
+    background-image: url(https://i.pinimg.com/236x/a5/ed/17/a5ed17be2ac70b0f951c367b51182e50.jpg);
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+table{
+    border-collapse: collapse;
+    width: 90%;
+}
+
+.cart {
+    display: flex;
+    background-color: blanchedalmond;
+    background-image: url();
+}
+
+.container {
+    width: 80%;
+    margin: auto
+}
+
+.heading {
+    text-align: center;
+    display: flex;
+}
+
+.account {
+    text-align: center;
+    color: blueviolet;
+    margin: 0.5em;
+    border: 1px solid;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    width: 15em;
+    border-radius: 0.5em;
+    display: inline-flex;
+}
